@@ -1,4 +1,4 @@
-# Utilisations des Données de Couverture Terrestre
+# Introduction
 
 La Problématique 2 du PAS Challenge vise à aborder les défis liés à la déforestation, à la gestion durable des forêts et à la réduction des émissions de carbone au Sénégal. Pour résoudre ces défis complexes, il est essentiel de disposer de données fiables sur la couverture terrestre, les politiques forestières, le climat et d'autres facteurs environnementaux.
 
