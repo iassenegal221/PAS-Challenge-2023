@@ -1,5 +1,10 @@
 # Utilisations des Données de Couverture Terrestre
 
+La Problématique 2 du PAS Challenge vise à aborder les défis liés à la déforestation, à la gestion durable des forêts et à la réduction des émissions de carbone au Sénégal. Pour résoudre ces défis complexes, il est essentiel de disposer de données fiables sur la couverture terrestre, les politiques forestières, le climat et d'autres facteurs environnementaux.
+
+Ce référentiel fournit des liens vers des sources de données pertinentes qui peuvent être utilisées pour surveiller les changements dans la couverture terrestre, évaluer l'impact des politiques forestières, quantifier les crédits carbone, suivre les tendances climatiques et bien plus encore. Ces données sont essentielles pour informer les décisions de gestion, orienter les initiatives de conservation et contribuer à la lutte contre la déforestation.
+
+
 ## Couverture Forestière au Sénégal
 - [Données de Couverture Forestière au Sénégal](https://www.globalforestwatch.org/dashboards/country/SEN/?category=land-cover&m)
   
